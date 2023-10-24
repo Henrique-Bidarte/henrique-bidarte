@@ -1,16 +1,22 @@
-### Hi there 👋
+### Greetings! Im Henrique Bidarte, Fullstack Software Developer. 
 
-<!--
-**Henrique-Bidarte/henrique-bidarte** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on Software Development
+- 🧠 I’m currently learning AI
+- ☄️ I'm a Developer at CWI - Software
+- 📫 How to reach me: henriqueb1208@gmail.com
+- 🎲 Fun fact: I'm a Tabletop Rpg Dungeon Master
 
-Here are some ideas to get you started:
+##
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div>
+  <a href="https://github.com/henrique-bidarte">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-bidarte&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=radical&hide_border=false&order=2" height="180" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrique-bidarte&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&rank_icon=github&order=1" height="180" alt="stats graph" />
+</div>
+
+###
+
+<div>
+  <a href = "https://www.linkedin.com/in/henrique-bidarte-massuquetti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href = "mailto:henriqueb1208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+</div>
