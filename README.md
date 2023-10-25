@@ -23,9 +23,10 @@
 
 ## 
 ### Listening to music while the Snake casually eats my Contribution Graph. 🐍 
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.gif" width="140" />
 <div>
   
-<img src="Under Pressure.png" width="140" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -42,7 +43,6 @@
   />
 </picture>
 </div>  
-<img src="Under Pressure.gif" width="140" />
 
 
 
