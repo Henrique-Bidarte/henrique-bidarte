@@ -1,4 +1,4 @@
-## Greetings! Im Henrique Bidarte, Fullstack Software Developer. 
+## Greetings! I'm Henrique Bidarte, Fullstack Software Developer. 
 
 - 🔭 I’m currently working on Software Development
 - 🧠 I’m currently learning AI
@@ -8,7 +8,7 @@
 
 ##
 
-### Listening to music while the Snake casually eats my Contribution Graph 🐍 
+### Casually listening to music while the Snake eats my Contribution Graph 🐍 
 <div> 
 <img src="under-pressure.gif" height="150" />
 <picture>
