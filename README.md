@@ -8,20 +8,6 @@
 
 ##
 
-<div>
-  <a href="https://github.com/henrique-bidarte">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-bidarte&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
-  <img src="https://github-readme-stats.vercel.app/api?username=henrique-bidarte&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&card_width=450&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&rank_icon=github&order=1" height="150" alt="stats graph" />
-</div>
-
-###
-
-<div>
-  <a href = "https://www.linkedin.com/in/henrique-bidarte-massuquetti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
-  <a href = "mailto:henriqueb1208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
-</div>
-
-## 
 ### Listening to music while the Snake casually eats my Contribution Graph 🐍 
 <div> 
 <img src="under-pressure.gif" height="150" />
@@ -41,6 +27,22 @@
   />
 </picture>
 </div>  
+
+## 
+
+<div>
+  <a href="https://github.com/henrique-bidarte">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=henrique-bidarte&locale=en&hide_title=false&layout=compact&card_width=450&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-stats.vercel.app/api?username=henrique-bidarte&hide_title=true&hide_rank=false&show_icons=true&include_all_commits=true&card_width=450&count_private=true&disable_animations=false&theme=radical&locale=en&hide_border=false&rank_icon=github&order=1" height="150" alt="stats graph" />
+</div>
+
+###
+
+<div>
+  <a href = "https://www.linkedin.com/in/henrique-bidarte-massuquetti" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"/></a>
+  <a href = "mailto:henriqueb1208@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"/></a>
+</div>
+
 
 
 
