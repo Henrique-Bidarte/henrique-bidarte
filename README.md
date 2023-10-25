@@ -23,8 +23,20 @@
 
 ## 
 ### Listening to music while the Snake casually eats my Contribution Graph. 🐍 
+<div>
+  
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
+<img src="Under Pressure.png" width="140" />
 <img src="Under Pressure.png" width="140" />
 <img src="Under Pressure.gif" width="140" />
+</div>
 <div>
   
 <picture>
