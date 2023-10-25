@@ -37,7 +37,7 @@
   <img
     alt="github contribution grid snake animation"
     src="https://github.com/henrique-bidarte/henrique-bidarte/blob/output/github-contribution-grid-snake.svg"
-    height="160"
+    height="150"
   />
 </picture>
 </div>  
