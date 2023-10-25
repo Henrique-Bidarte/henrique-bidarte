@@ -8,7 +8,7 @@
 
 ##
 
-### Casually listening to music while the Snake eats my Contribution Graph 🐍 
+### Casually listening to music while the snake eats my Contribution Graph 🐍 
 <div> 
 <img src="under-pressure.gif" height="150" />
 <picture>
