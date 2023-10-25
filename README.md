@@ -1,4 +1,4 @@
-### Greetings! Im Henrique Bidarte, Fullstack Software Developer. 
+## Greetings! Im Henrique Bidarte, Fullstack Software Developer. 
 
 - 🔭 I’m currently working on Software Development
 - 🧠 I’m currently learning AI
@@ -22,8 +22,10 @@
 </div>
 
 ## 
-### Listening to music while the snake casually eats my contribution graph. 🐍 
-
+## Listening to music while the snake casually eats my contribution graph. 🐍 
+<div>
+  
+<img src="Under Pressure.png" width="180" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -36,10 +38,11 @@
   <img
     alt="github contribution grid snake animation"
     src="https://github.com/henrique-bidarte/henrique-bidarte/blob/output/github-contribution-grid-snake.svg"
+    height="180"
   />
 </picture>
+</div>  
+<img src="Under Pressure.gif" width="180" />
 
-##
 
-<img src="Under Pressure.png" width="200" />
-<img src="Under Pressure.gif" width="200" />
+
