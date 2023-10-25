@@ -22,7 +22,7 @@
 </div>
 
 ## 
-### Listening to music while the Snake casually eats my Contribution Graph. 🐍 
+### Listening to music while the Snake casually eats my Contribution Graph 🐍 
 <div> 
 <img src="under-pressure.gif" height="150" />
 <picture>
