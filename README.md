@@ -25,7 +25,7 @@
 ## Listening to music while the snake casually eats my contribution graph. 🐍 
 <div>
   
-<img src="Under Pressure.png" width="160" />
+<img src="Under Pressure.png" width="140" />
 <picture>
   <source
     media="(prefers-color-scheme: dark)"
@@ -38,11 +38,11 @@
   <img
     alt="github contribution grid snake animation"
     src="https://github.com/henrique-bidarte/henrique-bidarte/blob/output/github-contribution-grid-snake.svg"
-    height="160"
+    height="140"
   />
 </picture>
 </div>  
-<img src="Under Pressure.gif" width="160" />
+<img src="Under Pressure.gif" width="140" />
 
 
 
