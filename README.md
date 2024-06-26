@@ -1,7 +1,7 @@
 ## Greetings! I'm Henrique Bidarte, Fullstack Software Developer. 
 
 - 🔭 I’m currently working on Software Development
-- 🧠 I’m currently learning AI
+- 🧠 I’m currently learning Computer Graphics
 - ☄️ I'm a Developer at CWI - Software
 - 📫 How to reach me: henriqueb1208@gmail.com
 - 🎲 Fun fact: I'm a Tabletop Rpg Dungeon Master
