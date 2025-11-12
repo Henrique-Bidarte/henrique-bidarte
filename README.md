@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on Software Development
 - 🧠 I’m currently learning Physics
-- ☄️ I'm a Developer at CloudHumans
+- ☄️ I'm a Developer at CWI Software
 - 📫 How to reach me: henriqueb1208@gmail.com
 - 🎲 Fun fact: I'm a Tabletop Rpg Dungeon Master
 
